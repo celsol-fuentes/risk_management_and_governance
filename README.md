@@ -1,2 +1,2 @@
-# CCCS_453_risk_management_and_governance
-Projects from CCCS_453_Security_Risk_Management_and_Governance course during Certificate in Applied Cybersecurity at McGill University.
+# Security Risk Management and Governance
+Projects in pdf format from the Security Risk Management and Governance course during the Certificate in Applied Cybersecurity at McGill University.
